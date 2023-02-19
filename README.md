@@ -1,3 +1,4 @@
+![alt text](https://github.com/osamabg1999/Cyclistic-Case-Study-Google/blob/main/cycle.jpg?raw=true)
 # Case Study: Convert Casual Cyclistic Riders to Annual Members: Case Study
 This case study was the capstone project for my Google Data Analytics Certification.
 
